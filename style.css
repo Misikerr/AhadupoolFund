@@ -233,6 +233,14 @@ nav {
     margin-bottom: 40px;
 }
 
+.hero-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
 .btn {
     padding: 15px 30px;
     border-radius: 8px;
@@ -246,7 +254,6 @@ nav {
     background: var(--pool-green);
     color: var(--bg-dark);
     box-shadow: 0 0 20px rgba(0,255,136,0.4);
-    margin-right: 15px;
 }
 
 .btn-primary:hover {
