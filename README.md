@@ -23,7 +23,7 @@ AhaduPool is an ambitious multiplayer 8-ball pool game built from scratch by a t
 
 You can download and test the current development build (APK for Android).
 
-**[⬇️ Download AhaduPool v1.0.0 APK](https://ahadupool-fund.vercel.app/assets/AhaduPool(v1.0.0).apk)**
+**[⬇️ Download AhaduPool v1.0.0 APK](assets/ahadu-pool.v1.0.0.apk)**
 
 *Note: Since it's a direct APK download, you may need to enable "Install from Unknown Sources" on your Android device.*
 
